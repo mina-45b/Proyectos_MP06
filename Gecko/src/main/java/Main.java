@@ -520,7 +520,7 @@ public class Main {
       }
 
       //Guardar XML
-      File xmlFile = new File("src/elementosPorEstado.xml");
+      File xmlFile = new File("src/tablaPeriodica.xml");
       javax.xml.transform.TransformerFactory transformerFactory = javax.xml.transform.TransformerFactory.newInstance();
       javax.xml.transform.Transformer transformer = transformerFactory.newTransformer();
 
